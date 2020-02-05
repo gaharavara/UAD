@@ -1,0 +1,27 @@
+{
+  "name": "uad",
+  "version": "1.0.0",
+  "description": "Unusual Activity Detector",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaharavara/UAD.git"
+  },
+  "keywords": [
+    "Unusual",
+    "Activity",
+    "Detector"
+  ],
+  "author": "Team: One For All",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaharavara/UAD/issues"
+  },
+  "homepage": "https://github.com/gaharavara/UAD#readme",
+  "dependencies": {
+    "electron": "^8.0.0"
+  }
+}
