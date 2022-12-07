@@ -23,6 +23,6 @@
   "homepage": "https://github.com/gaharavara/UAD#readme",
   "dependencies": {
     "electron": "^8.0.0",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
